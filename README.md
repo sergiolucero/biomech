@@ -1,4 +1,4 @@
-# Prototipo para modelamiento biocinético, análisis de datos y generación de reportes médicos para terapias de rehabilitación motriz  
+# Prototipo para modelamiento biocinético, análisis de datos y generación de reportes para terapias de rehabilitación motriz  
 ## Descripción
 Este repositorio contiene el código esencial, fotos y videos del proyecto Biomed presentado a EBM Labs en Octubre 2018.
 ## Equipo  
